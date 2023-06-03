@@ -7,7 +7,7 @@ const projects = [
         desc: 'This is a freelance project built a full-stack web app using MERN stack with Redux for state management. Enabled user authentication, posting, commenting, user history, profile management, and search functionalities. Implemented two-factor authentication for enhanced security and user data privacy.',
         code: '#',
         link: 'buzzlle.com',
-        image: { InqueImage }
+        image: '../../ assets / img / MST.png'
     },
     {
         id: 43232,
